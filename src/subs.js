@@ -25,6 +25,9 @@ function time(a, b) {
   function mod4(a, b) {
     return a / b;
   }
-  
 
+  function mod5(a, b) {
+    return a / b;
+  }
+  
 module.exports = subs

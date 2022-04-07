@@ -18,4 +18,12 @@ function mod2(a, b) {
   return a / b;
 }
 
+function mod3(a, b) {
+  return a / b;
+}
+
+function mod4(a, b) {
+  return a / b;
+}
+
 module.exports = sum

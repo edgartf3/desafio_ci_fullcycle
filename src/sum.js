@@ -22,13 +22,4 @@ function mod2(a, b) {
   return a / b;
 }
 
-function mod2(a, b) {
-  return a / b;
-}
-function mod2(a, b) {
-  return a / b;
-}
-
-
-
 module.exports = sum
